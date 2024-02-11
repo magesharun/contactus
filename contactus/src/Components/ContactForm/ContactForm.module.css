@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    max-width:1000px;
+    margin:0 auto;
+    color:red;
+}
+
+.top_btn{
+    display:flex;
+    gap:32px;
+    margin-top:50px;
+    margin-left:0px;
+
+}
